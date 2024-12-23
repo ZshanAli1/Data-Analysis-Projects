@@ -144,6 +144,8 @@ select *, "Rolling People Vaccinated"/population*100
 from #Population_vs_Vaccinated
 order by 2,3;
 
+go
+
 create view Population_vs_Vaccinated as
 select 
 	d.continent,
