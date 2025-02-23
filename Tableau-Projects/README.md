@@ -1,9 +1,3 @@
-| [Tableau Project 1](https://public.tableau.com/views/SalesandCustomerKPIDashboard_17398019037600/SalesDashboard) | [Tableau Project 2](https://your-second-tableau-link.com) |
-|:---------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------:|
-| ![Sales Dashboard](https://raw.githubusercontent.com/ZshanAli1/Data-Analysis-Projects/main/Tableau-Projects/Sales%20Dashboard.png) | ![Customer Insights](https://raw.githubusercontent.com/ZshanAli1/Data-Analysis-Projects/main/Tableau-Projects/Customer%20Insights.png) |
-
-
-
 <a href="https://public.tableau.com/views/SalesandCustomerKPIDashboard_17398019037600/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">
   <p style="text-align: center; font-weight: bold;">Tableau Project 1 Link</p>
   <img src="https://raw.githubusercontent.com/ZshanAli1/Data-Analysis-Projects/main/Tableau-Projects/Sales%20Dashboard.png" width="600">
