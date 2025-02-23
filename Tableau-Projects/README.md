@@ -2,7 +2,7 @@
 
 ![Sales Dashboard](https://raw.githubusercontent.com/ZshanAli1/Data-Analysis-Projects/main/Tableau-Projects/Sales%20Dashboard.png)
 
-![Customer Insights](https://raw.githubusercontent.com/ZshanAli1/Data-Analysis-Projects/main/Tableau-Projects/Customer%20Insights.png)
+![AtliQ Sales Insights](https://raw.githubusercontent.com/ZshanAli1/Data-Analysis-Projects/main/Tableau-Projects/Sales%20Insights.png)
 
 
 
